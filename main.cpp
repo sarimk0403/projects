@@ -1,3 +1,6 @@
+//This is a simple Rock, Paper, Scissors game. The user plays against a bot and the bot selects Rock, paper and scissors randomly.
+
+
 #include <iostream>
 #include <ctime>
 
