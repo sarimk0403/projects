@@ -30,6 +30,7 @@ The outcome of the game is then revealed to the player, indicating whether they 
   
 
 3. Hotel Reservation System
+
   This project is a console-based Hotel Reservation System developed using the C++ programming language. It is designed with the objective to automate the many facets of hotel reservations, ranging from adding and deleting customers to updating customer information and conducting searches. The system provides a user-friendly interface, making it accessible for hotel staff with varying degrees of technical knowledge.
 
 The main functionality of this system is encapsulated in a menu-driven interface. The menu presents six options to the user:
